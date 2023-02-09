@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ketan081998
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Information Systems
-- 💞️ I’m looking to collaborate on Machine Learning & Data Analytics
+- 👀 I’m a Data Enthusiast
+- 🌱 I’m currently pursuing Information Systems 
+- 💞️ I’m looking to collaborate with Data & Business Analytics
 - 📫 How to reach me kkhandag@stevens.edu
 
 <!---
